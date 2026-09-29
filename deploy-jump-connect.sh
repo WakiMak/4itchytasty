@@ -20,7 +20,7 @@ INSTALLER_URL="https://REPLACE-WITH-YOUR-TEAM-INSTALLER-URL.pkg"
 # Fallback: your Connect Code with spaces removed (shown in Add Computers as
 # e.g. "123 456 789" -> enter "123456789"). Used only if Connect is already
 # installed on the Mac.
-CONNECTCODE="REPLACE_WITH_CONNECT_CODE"
+CONNECTCODE="606799494"
 
 # ---------------------------------------------------------------------------
 # No edits needed below this line
